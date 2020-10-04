@@ -1,0 +1,5 @@
+.chrome
+coverage
+dist
+_transpiled
+node_modules
