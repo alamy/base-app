@@ -3,7 +3,7 @@ Geolocation portal for NASA and partner events
 (organizations, such as small and large companies, universities and research institutions,
 that are contributing to the exploration of space in specific local communities) that will be shown next to the user.
 
-Describe how your project addresses this challenge: We develop a platform where the primary user receives notifications
+We develop a platform where the primary user receives notifications
 about space events made available by NASA satellites and partners, through geolocation.
 
 Describe how you developed your project: Our inspiration comes from the difficulty of capturing information about the location
@@ -19,7 +19,7 @@ Portal de geolocalização de eventos da Nasa e parceiros
 (organizações, como pequenas e grandes empresas, universidades e instituições de pesquisa,
 que estão contribuindo para a exploração do espaço em comunidades locais específicas) que será mostrado próximo ao usuário.
 
-Descreva como seu projeto aborda esse desafio: Desenvolvemos uma plataforma onde o usuário principal recebe notificações
+Desenvolvemos uma plataforma onde o usuário principal recebe notificações
 sobre eventos espaciais disponibilizados pelos satélites da NASA e parceiros, através da geolocalização.
 
 Descreva como você desenvolveu seu projeto: Nossa inspiração vem da dificuldade de captar informações sobre a localização
